@@ -23,6 +23,7 @@ body {
 
 .robot-body {
   position: relative;
+  top: .5em;
   width: 320px;
 }
 
