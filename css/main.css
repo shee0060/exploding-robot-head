@@ -53,10 +53,12 @@ body {
   right: 35px;
 }
 
+.robot-body,
 .robot-head-right:hover {
   right: 0;
 }
 
+.robot-body,
 .robot-head-left:hover {
   left: 0;
 }
